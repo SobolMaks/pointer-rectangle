@@ -3,12 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        Rectangle Rectangle =new Rectangle();
-        Rectangle Rectangle2=new Rectangle();
-        Rectangle2.width = 8;
-        Rectangle2.length = 6;
-        Rectangle.info();
-        Rectangle2.info();
+        Rectangle rectangle =new Rectangle();
+        Rectangle rectangle2=new Rectangle();
+        rectangle2.width = 8;
+        rectangle2.length = 6;
+        rectangle.info();
+        rectangle2.info();
         }
-	// write your code here
     }
