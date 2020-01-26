@@ -3,7 +3,8 @@ public class Rectangle {
     public double length;
 
         public Rectangle() {
-        this.length=9;
+
+        this.length=10;
         this.width=5;
         System.out.println("Rectangle створено");
             }
