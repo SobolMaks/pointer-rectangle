@@ -5,7 +5,7 @@ public class Rectangle {
         public Rectangle() {
 
         this.length=10;
-        this.width=5;
+        this.width=7;
         System.out.println("Rectangle створено");
             }
     public void info (){
